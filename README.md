@@ -6,4 +6,4 @@ I tried 5 types of machine learning models for the MedicalFraud1 dataset:
 4) Gradient Boosting
 5) Naive Bayes
 
-And teted their accuracies
+And tested their accuracies
