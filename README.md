@@ -1,5 +1,6 @@
 # AI-Medical-Fraud-Detection
-I tried 5 types of machine learning models for the MedicalFraud1 dataset:
+*Note: although name of the file is MedicalFraud1, it is of insurance dataset
+I tried 5 types of machine learning models for the MedicalFraud1 dataset:                         
 1) Logistic Regression
 2) Decision Tree
 3) Random Forest Classification
